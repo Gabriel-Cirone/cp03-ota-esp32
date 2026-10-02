@@ -6,7 +6,7 @@
 
 const char* VERSAO_ATUAL  = "2.0";
 const char* MANIFESTO_URL =
-  "https://raw.githubusercontent.com/USUARIO/REPOSITORIO/main/version.json";
+  "https://github.com/Gabriel-Cirone/cp03-ota-esp32/blob/main/version.json";
 const int   PIN_LED = 2;
 
 const unsigned long INTERVALO_LOG  = 3000;   // mensagens a cada 3 s
